@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\STSNX\source\repos\Moneydiary\Moneydiary\Source.cpp(115,10): warning C4101: 'next': unreferenced local variable
+C:\Users\STSNX\source\repos\Moneydiary\Moneydiary\Source.cpp(114,42): warning C4101: 'j': unreferenced local variable
+C:\Users\STSNX\source\repos\Moneydiary\Moneydiary\Source.cpp(114,9): warning C4101: 'num': unreferenced local variable
+  Moneydiary.vcxproj -> C:\Users\STSNX\source\repos\Moneydiary\Debug\Moneydiary.exe

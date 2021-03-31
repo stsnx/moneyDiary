@@ -1,0 +1,11 @@
+==============================
+         Money diary
+       Data in bill
+==============================
+date      type   list    p/e  total
+07012021 d buydick2 10 10
+09012021 d buydick3 30 20
+10012021 w buydick4 100 50
+13012021 d addgm 1200 1250
+13012021 w test1 300 950
+22012021 d buycoconut 100 1050
